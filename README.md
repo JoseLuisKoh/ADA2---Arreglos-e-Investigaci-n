@@ -1,2 +1,2 @@
 # ADA2---Arreglos-e-Investigaci-n
-Python
+A lo que yo veo es el tipo de organizacion(Matriz) de cada dato que se pones al momento de copilar del alumno 1 al 100 y por su materia y las calificaciones , al mometo de copilar nos arrojara la lista de 1 al 100 y nos dara la opcion de escribir del 1 al 100 para buscar ese al alunmno y nos dara la calificacion deseada y ya si nos pasamos y ponemos un numero del maximo al 100 nos arrojara un error y nos estara indicando que sea del 1 al 100.
